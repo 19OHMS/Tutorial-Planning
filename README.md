@@ -9,6 +9,8 @@
 ### General G-Series Tutorials
 
 - [ ] G001: Using the Vim Text Editor
+- [ ] G002: Windows: Adding Programs to the PATH
+- [ ] G003: Linux: Adding Programs to the PATH
 
 ### C and C++ C-Series Tutorials
 
