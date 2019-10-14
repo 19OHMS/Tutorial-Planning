@@ -2,7 +2,7 @@
 
 ### Java J-Series Tutorials
 
-- [ ] J001: Java Hello World
+- [X] J001: Java Hello World
 - [ ] J002: Object Oriented Java
 - [ ] J003: Java Functions
 
@@ -19,4 +19,5 @@
 
 ### Python P-Series Tutorials
 
+- [X] P000: Installing Python 3
 - [ ] P001: Python Hello World
