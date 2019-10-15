@@ -15,7 +15,7 @@
 ### C and C++ C-Series Tutorials
 
 - [ ] C001: C Hello World
-- [ ] C002: Passing Data to Functions in C++
+- [x] C002: Passing Data to Functions in C++
 
 ### Python P-Series Tutorials
 
